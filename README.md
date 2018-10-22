@@ -1,0 +1,2 @@
+# smartninja
+Our first repository.
